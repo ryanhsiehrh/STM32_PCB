@@ -3,12 +3,12 @@ PCB centered around the STM32F103C8T6 microcontroller developed in Kicad,
 
 **Schematic:**
 
-<img src="images/STM32F103C8T6_SCHEMATIC.png" width="750">
+<img src="Images/STM32F103C8T6_SCHEMATIC.png" width="750">
 
 **PCB:**
 
-<img src="images/STM32F103C8T6_PCB.png" width="750">
-<img src="images/STM32F103C8T6_PCB3DVIEW.png" width="750">
+<img src="Images/STM32F103C8T6_PCB.png" width="650">
+<img src="Images/STM32F103C8T6_PCB3DVIEW.png" width="650">
 
 ## Hardware Components
 

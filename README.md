@@ -1,5 +1,5 @@
 # STM32_PCB
-PCB centered around the STM32F103C8T6 microcontroller developed in Kicad,
+PCB centered around the STM32F103C8T6 microcontroller developed in Kicad. This project taught me the main principles of schematic design, pinout planning with STM32CubeMX, power regulation using LDOs, and implementing hardware communication like I2C, UART, SWD, and USB.
 
 **Schematic:**
 
